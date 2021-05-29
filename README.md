@@ -1,22 +1,11 @@
-dcit26-compilation
+# Sample Snack app
 
-A compilation of React Native examples for the course DCIT 26 - Application Development and Emerging Technologies
+Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-Snacks
+When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
 
-https://snack.expo.io/@jommerramos/lab1?fbclid=IwAR14_jLU-_AZr7PptfxFNjs9XO-u2IBTAmkqaWgACfx5IYPbDoQ14WaN6sw
-https://snack.expo.io/@jommerramos/lab2?fbclid=IwAR2MsTPpzzoPqnyaFL8tZoOKWBPSPfCcqWERTfIggomZRQZafGZmtF8PsHE
-https://snack.expo.io/@gabrielvicedo07/lab3?fbclid=IwAR2WnoKausJx4LdhGwufR8LeLPw719oHEj-U_pvco6fO3OincCxSjEphAkk
-https://snack.expo.io/@gabrielvicedo07/lab4?fbclid=IwAR3_EAbCku9T9ZmmBwNQpsjOLpOOXIitEs1T2eyJ6X9uwgo3oradFiqMzCw
-https://snack.expo.io/@gabrielvicedo07/lab6?fbclid=IwAR2NX8Bz0aoBT8XzxAHA--dkNctDBlu3xcswH8fp8nK5gG0XFRkolMVHxeU
+All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
 
+If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
-Members (BSCS 3-4)
-
-Ramos, Jommer E
-
-Vicedo, Gabriel
-
-Octoman, Metthew
-
-Rodrin, Mei Misael Sicat
+Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).

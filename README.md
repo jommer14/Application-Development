@@ -10,7 +10,11 @@ https://snack.expo.io/@gabrielvicedo07/lab4?fbclid=IwAR3_EAbCku9T9ZmmBwNQpsjOLpO
 
 
 Members (BSCS 3-4)
+
 Ramos, Jommer E
+
 Vicedo, Gabriel
+
 Octoman, Metthew
+
 Rodrin, Mei Misael Sicat
